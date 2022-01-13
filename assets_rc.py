@@ -1,0 +1,152 @@
+# Resource object code (Python 3)
+# Created by: object code
+# Created by: The Resource Compiler for Qt version 5.15.2
+# WARNING! All changes made in this file will be lost!
+
+from PySide2 import QtCore
+
+qt_resource_data = b"\
+\x00\x00\x01\x02\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0z\x22 fil\
+l=\x22none\x22/><path \
+d=\x22M19 6.41L17.5\
+9 5 12 10.59 6.4\
+1 5 5 6.41 10.59\
+ 12 5 17.59 6.41\
+ 19 12 13.41 17.\
+59 19 19 17.59 1\
+3.41 12z\x22/></svg\
+>\
+\x00\x00\x01\x1c\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0z\x22 fil\
+l=\x22none\x22/><path \
+d=\x22M16 1H4c-1.1 \
+0-2 .9-2 2v14h2V\
+3h12V1zm3 4H8c-1\
+.1 0-2 .9-2 2v14\
+c0 1.1.9 2 2 2h1\
+1c1.1 0 2-.9 2-2\
+V7c0-1.1-.9-2-2-\
+2zm0 16H8V7h11v1\
+4z\x22/></svg>\
+\x00\x00\x012\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0z\x22 fil\
+l=\x22none\x22/><path \
+d=\x22M3 17.25V21h3\
+.75L17.81 9.94l-\
+3.75-3.75L3 17.2\
+5zM20.71 7.04c.3\
+9-.39.39-1.02 0-\
+1.41l-2.34-2.34c\
+-.39-.39-1.02-.3\
+9-1.41 0l-1.83 1\
+.83 3.75 3.75 1.\
+83-1.83z\x22/></svg\
+>\
+\x00\x00\x01z\
+<\
+svg xmlns=\x22http:\
+//www.w3.org/200\
+0/svg\x22 height=\x222\
+4px\x22 viewBox=\x220 \
+0 24 24\x22 width=\x22\
+24px\x22 fill=\x22#000\
+000\x22><path d=\x22M0\
+ 0h24v24H0z\x22 fil\
+l=\x22none\x22/><path \
+d=\x22M20.71 5.63l-\
+2.34-2.34c-.39-.\
+39-1.02-.39-1.41\
+ 0l-3.12 3.12-1.\
+93-1.91-1.41 1.4\
+1 1.42 1.42L3 16\
+.25V21h4.75l8.92\
+-8.92 1.42 1.42 \
+1.41-1.41-1.92-1\
+.92 3.12-3.12c.4\
+-.4.4-1.03.01-1.\
+42zM6.92 19L5 17\
+.08l8.06-8.06 1.\
+92 1.92L6.92 19z\
+\x22/></svg>\
+"
+
+qt_resource_name = b"\
+\x00\x04\
+\x00\x06\xfa^\
+\x00i\
+\x00c\x00o\x00n\
+\x00\x06\
+\x06\x8a\x9c\xb3\
+\x00a\
+\x00s\x00s\x00e\x00t\x00s\
+\x00\x14\
+\x03\xe9\x9d'\
+\x00c\
+\x00l\x00o\x00s\x00e\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\
+\x00s\x00v\x00g\
+\x00\x1b\
+\x0a\xbc\xdc\x87\
+\x00c\
+\x00o\x00n\x00t\x00e\x00n\x00t\x00_\x00c\x00o\x00p\x00y\x00_\x00b\x00l\x00a\x00c\
+\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\x00v\x00g\
+\x00\x13\
+\x00\x85\xebg\
+\x00e\
+\x00d\x00i\x00t\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\x00d\x00p\x00.\x00s\
+\x00v\x00g\
+\x00\x17\
+\x09V\xb3g\
+\x00c\
+\x00o\x00l\x00o\x00r\x00i\x00z\x00e\x00_\x00b\x00l\x00a\x00c\x00k\x00_\x002\x004\
+\x00d\x00p\x00.\x00s\x00v\x00g\
+"
+
+qt_resource_struct = b"\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x00\x00\x02\x00\x00\x00\x01\x00\x00\x00\x02\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x0e\x00\x02\x00\x00\x00\x04\x00\x00\x00\x03\
+\x00\x00\x00\x00\x00\x00\x00\x00\
+\x00\x00\x00\x8a\x00\x00\x00\x00\x00\x01\x00\x00\x02&\
+\x00\x00\x01}\xa2J7\x18\
+\x00\x00\x00 \x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\
+\x00\x00\x01}\xa2J\x14\xd3\
+\x00\x00\x00\xb6\x00\x00\x00\x00\x00\x01\x00\x00\x03\x5c\
+\x00\x00\x01}\xa2H\xde\xae\
+\x00\x00\x00N\x00\x00\x00\x00\x00\x01\x00\x00\x01\x06\
+\x00\x00\x01}\xa2Jg\x8f\
+"
+
+def qInitResources():
+    QtCore.qRegisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+def qCleanupResources():
+    QtCore.qUnregisterResourceData(0x03, qt_resource_struct, qt_resource_name, qt_resource_data)
+
+qInitResources()

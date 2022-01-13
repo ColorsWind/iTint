@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>assets/colorize_black_24dp.svg</file>
+        <file>assets/close_black_24dp.svg</file>
+        <file>assets/content_copy_black_24dp.svg</file>
+        <file>assets/edit_black_24dp.svg</file>
+    </qresource>
+</RCC>
