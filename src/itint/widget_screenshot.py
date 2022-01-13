@@ -2,7 +2,7 @@ from PySide2.QtCore import Qt, QPoint, QRect
 from PySide2.QtGui import QGuiApplication, QBitmap, QPainter, QPen, QBrush, QPaintEvent, QMouseEvent, QCursor
 from PySide2.QtWidgets import QWidget, QApplication
 
-from utils import get_real_coordinate
+from itint.utils import get_real_coordinate
 
 
 class WidgetScreenShot(QWidget):

@@ -3,7 +3,7 @@ import sys
 from PySide2.QtCore import Qt
 from PySide2.QtWidgets import QApplication
 
-from widget import MainWidget
+from itint.widget import MainWidget
 
 
 def main():

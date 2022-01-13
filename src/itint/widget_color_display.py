@@ -7,9 +7,8 @@ from PySide2.QtCore import QBuffer, QEventLoop
 from PySide2.QtGui import QImage, QPalette, QColor
 from PySide2.QtWidgets import QWidget, QApplication
 
-from ui_color_display import Ui_ColorDisplay
-
-from widget_color_selector import ColorSelectorWidget
+from itint.ui_color_display import Ui_ColorDisplay
+from itint.widget_color_selector import ColorSelectorWidget
 
 
 def rgb_to_hsv(r, g, b):

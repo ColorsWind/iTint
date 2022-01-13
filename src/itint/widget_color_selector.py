@@ -6,14 +6,12 @@
 #                                       #
 # ------------------------------------- #
 
-import sys
 import colorsys
 
 from PySide2.QtCore import QPoint, Qt
-from PySide2.QtGui import QColor
-from PySide2.QtWidgets import QApplication, QWidget, QMainWindow
+from PySide2.QtWidgets import QWidget
 
-from ui_color_selector import Ui_ColorSelector
+from itint.ui_color_selector import Ui_ColorSelector
 
 
 class ColorSelectorWidget(QWidget):

@@ -1,16 +1,14 @@
-# This Python file uses the following encoding: utf-8
-import time
-
 import numpy as np
+
 from PySide2.QtCore import Qt, QUrl, QSize, QEventLoop
 from PySide2.QtGui import QPixmap, QDropEvent, QDragEnterEvent, QMouseEvent, QResizeEvent, QHideEvent
 from PySide2.QtWidgets import QApplication, QWidget, QHBoxLayout, QFileDialog, QWidgetItem
 
-from octree import Octree
-from ui_widget import Ui_MainWidget
-from widget_color_display import qimage_to_pil, ColorDisplayWidget
-from widget_screen_color_picker import ScreenColorPicker
-from widget_screenshot import WidgetScreenShot
+from itint.octree import Octree
+from itint.ui_widget import Ui_MainWidget
+from itint.widget_color_display import qimage_to_pil, ColorDisplayWidget
+from itint.widget_screen_color_picker import ScreenColorPicker
+from itint.widget_screenshot import WidgetScreenShot
 
 
 class MainWidget(QWidget):

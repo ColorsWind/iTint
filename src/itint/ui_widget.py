@@ -150,7 +150,7 @@ class Ui_MainWidget(object):
     # setupUi
 
     def retranslateUi(self, MainWidget):
-        MainWidget.setWindowTitle(QCoreApplication.translate("MainWidget", u"iTint 0.0.1_alpha", None))
+        MainWidget.setWindowTitle(QCoreApplication.translate("MainWidget", u"iTint 0.0.1", None))
         self.groupBox.setTitle(QCoreApplication.translate("MainWidget", u"\u52a0\u8f7d\u56fe\u7247", None))
         self.btnFromScan.setText(QCoreApplication.translate("MainWidget", u"\u4ece\u5c4f\u5e55...", None))
         self.btnFromClipboard.setText(QCoreApplication.translate("MainWidget", u"\u4ece\u526a\u5207\u677f...", None))
