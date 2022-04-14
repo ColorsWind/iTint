@@ -1,6 +1,6 @@
 # iTint
 
-A theme color extraction widget based on octree with multiple inputs (file, screen).
+A theme color extraction and screen color picker widget.
 
 ## 
 
